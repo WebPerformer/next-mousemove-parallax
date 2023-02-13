@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <div className="main-content" onMouseMove={(e) => parallax(e)}>
       <div className="title">
-        <div className="small-title">Component Project</div>
+        <div className="small-title">Development Project</div>
         <div className="big-title">Mousemove Parallax</div>
       </div>
       <div className="component-container">
