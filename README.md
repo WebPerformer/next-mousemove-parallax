@@ -1,6 +1,6 @@
 Mousemove Parallax
 
-![FireShot Capture 004 - Gabriel Silva Araujo - localhost 2](https://user-images.githubusercontent.com/110235876/218331098-419057bc-c903-4f8d-8a15-497c55cfe413.png)
+![FireShot Capture 006 - Next js Template - localhost](https://user-images.githubusercontent.com/110235876/218537453-b963a30d-74d7-457c-a77a-95fd1e763617.png)
 
 ## Mousemove Parallax
 
@@ -28,5 +28,3 @@ Mousemove Parallax
 
 ## Site Online
 (https://next-mousemove-parallax.vercel.app/)
-
-![FireShot Capture 004 - Gabriel Silva Araujo - localhost](https://user-images.githubusercontent.com/110235876/218330927-49b6b936-8bfb-4827-9570-ed64041ed0da.png)
