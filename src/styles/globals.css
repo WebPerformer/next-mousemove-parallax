@@ -33,25 +33,6 @@ body{
 }
 
 /* MAIN */
-.main-content .title{
-  padding: 80px 0;
-  text-align: center;
-}
-
-.main-content .title .small-title{
-  font-size: 18px;
-  margin-bottom: 40px;
-  line-height: 0;
-  color: var(--gray-color);
-}
-
-.main-content .title .big-title{
-  font-size: 40px;
-  font-weight: 700;
-  line-height: 0;
-  text-transform: uppercase;
-}
-
 .main-content .component-container{
   position: absolute;
   top: 0;

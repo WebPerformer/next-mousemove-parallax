@@ -35,10 +35,6 @@ export default function Home() {
 
   return (
     <div className="main-content" onMouseMove={(e) => parallax(e)}>
-      <div className="title">
-        <div className="small-title">Development Project</div>
-        <div className="big-title">Mousemove Parallax</div>
-      </div>
       <div className="component-container">
         <img src="./images/1.png" alt="" data-speed="-5" ref={layer1Ref}/>
         <img src="./images/2.png" alt="" data-speed="5" ref={layer2Ref}/>
